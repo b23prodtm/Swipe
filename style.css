@@ -39,7 +39,7 @@ a {
 html, body {
   background: #f3f3f3;
 }
-
+        
 #console {
   font-size: 12px;
   font-family:"Inconsolata", "Monaco", "Consolas", "Andale Mono", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
@@ -50,7 +50,7 @@ html, body {
   overflow: auto;
 }
 
-#mySwipe div b {
+#mySwipe div table b {
   display:block;
   font-weight:bold;
   color:#14ADE5;
